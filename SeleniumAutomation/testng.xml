@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SeleniumSuite">
+    <test name="SeleniumTestSauceDemo">
+        <classes>
+            <class name="com.test.saucedemo.TestScript"/>
+        </classes>
+    </test>
+</suite>

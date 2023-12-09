@@ -1,0 +1,4 @@
+com\testng\webelements\Advanced_SearchPage.class
+com\testng\pages\Ebay_HomePg.class
+com\testng\webelements\Ebay_HomePage.class
+com\testng\webelements\Ebay_SearchResults.class
